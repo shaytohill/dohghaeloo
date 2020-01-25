@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laecholuci.oszutowski.com/sitemap.xml
